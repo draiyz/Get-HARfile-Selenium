@@ -1,0 +1,1 @@
+A HAR file is an archive saved in the HTTP Archive (HAR) format, which is a JSON-formatted format used to save collected HTTP performance data. It contains information about webpages a web browser has loaded, which includes the tracked webpages, response times, and web browser version. HAR files also store metadata, such as the HAR format version and the creator of the file.
